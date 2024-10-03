@@ -1,0 +1,14 @@
+ #first way
+
+
+
+horss = 1
+minute = 60
+second = 3600
+
+print(horss,minute,second)
+print(24*second)
+
+
+
+
