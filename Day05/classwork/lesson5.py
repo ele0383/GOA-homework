@@ -1,0 +1,10 @@
+age = "11)
+age = "11"
+print = age.
+print =(11) 
+name = elene
+name = "elene"
+height = 1..33
+height = 1.3
+print = 2--32
+print = 2.32

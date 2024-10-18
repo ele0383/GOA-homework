@@ -13,3 +13,8 @@ print(familly1)
 print(familly2)
 print(familly3)
 print(familly4)
+
+ 
+int=15
+str="book"
+float = 11.1
