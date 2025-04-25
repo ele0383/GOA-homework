@@ -1,0 +1,1 @@
+print("bnjuhygtfreedrtyuiokmnbgfdewe45678iokj".lowerO())

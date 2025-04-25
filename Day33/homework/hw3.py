@@ -1,0 +1,1 @@
+print("phiton = html,css,jv".find("phiton"))

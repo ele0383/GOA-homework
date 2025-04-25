@@ -1,0 +1,1 @@
+print("the antarctida is a countri".find("a"))

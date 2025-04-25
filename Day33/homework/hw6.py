@@ -1,0 +1,1 @@
+print("elene".find("@"))
