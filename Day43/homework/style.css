@@ -1,0 +1,36 @@
+.p1{
+    text-decoration: dashed,line-through,chartreuse;
+}
+
+.p2{
+    text-decoration: dotted,underline,red;
+}
+
+.p3{
+    text-decoration: double,none,purple;
+}
+
+.p4{
+    text-decoration: dashed,line-through,black;
+}
+
+.p5{
+    text-decoration: dotted,solid,yellow;
+}
+
+.p6{
+    text-decoration: double,overline,blue;
+}
+
+.p7{
+    text-decoration: none,wavy,orange;
+}
+
+.p8{
+    text-decoration: double,underline,brown;
+}
+
+.p9{
+    text-decoration: double,wavy,wheat;
+}
+

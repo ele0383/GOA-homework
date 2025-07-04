@@ -1,0 +1,15 @@
+p1{
+   text-decoration: dashed,line-through,cornflowerblue;
+}
+
+p2{
+    text-decoration: dotted,overline,red;
+}
+
+p3{
+    text-decoration:double,underline,plum;
+}
+
+p4{
+    text-decoration:wavy,none,greenyellow;
+}
